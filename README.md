@@ -39,3 +39,46 @@
 * Receive feedback/questions from the class
 
     * ^ Yes, please. Feedbacks are very welcomed (and extremely needed lol)."# checkpoint3-app-idea" 
+
+
+<hr>
+
+
+# App Idea: Job Hunting
+
+* Why it needs to exist(what problem does it solve?)
+
+    * Finding a job in the tech industry in Austin
+        * Collect data on every single tech company in Austin - Size, location, valuations, technology stacks, etc.
+        * Links to their career pages, AngelList, Glassdoor, LinkedIn, Indeed
+
+* How it solves the problem.
+
+    * No need to search through thousands of websites when now you can have it compiled into one
+    * You can favorite those that fall into a lot of your preferences
+    * Have an automated template letter for your introductory so you don't have to rewrite it over again a million times
+
+* What the app is and how it works
+
+    * Users will open this app, filter it by location, size, ratings, or fundings
+    * Users will then have a list of all the companies in a list.
+
+* Show the class your first few pages of the web app.
+
+    * Picture of a wireframe, or HTML/CSS mock up of what the landing page will look like
+
+* What technologies will you use
+
+    * I'm pretty sure I will need to create a frontend database to log the companies
+    * Maybe need some kind of backend application??
+    * Is an API needed? I'm not sure. Maybe if I want to add a map to it to locate the companies.
+
+* What questions do YOU have about your app?
+
+    * Is this feasible?
+    * What is a good MVP (minumum viable product)? 
+    * Anything to add that would make it a better idea?
+
+* Receive feedback/questions from the class
+
+    * ^ Yes, please. Feedbacks are very welcomed (and extremely needed lol)."# checkpoint3-app-idea" 
