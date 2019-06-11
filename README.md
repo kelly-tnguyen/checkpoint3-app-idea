@@ -38,8 +38,6 @@
 
 * Receive feedback/questions from the class
 
-    * ^ Yes, please. Feedbacks are very welcomed (and extremely needed lol)."# checkpoint3-app-idea" 
-
 
 <hr>
 
@@ -75,8 +73,7 @@
 
 * What questions do YOU have about your app?
 
-    * Is this feasible?
-    * What is a good MVP (minumum viable product)? 
+    * I have no idea what the database is that I'll be creating??
     * Anything to add that would make it a better idea?
 
 * Receive feedback/questions from the class
