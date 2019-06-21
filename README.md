@@ -79,3 +79,44 @@
 * Receive feedback/questions from the class
 
     * ^ Yes, please. Feedbacks are very welcomed (and extremely needed lol)."# checkpoint3-app-idea" 
+    
+   <hr>
+   
+   # App Idea: 
+
+* Why it needs to exist(what problem does it solve?)
+
+    * 
+        * 
+        * 
+
+* How it solves the problem.
+
+    * 
+    *
+    *
+
+* What the app is and how it works
+
+    * 
+    * 
+
+* Show the class your first few pages of the web app.
+
+    * 
+
+* What technologies will you use
+
+    * 
+    * 
+    * 
+
+* What questions do YOU have about your app?
+
+    * 
+    * 
+
+* Receive feedback/questions from the class
+
+    * 
+
